@@ -20,6 +20,8 @@ Timeline :
 
 ## Software repositories on [GitHub](https://github.com/APS-USAXS)
 
+[Project planning](https://github.com/orgs/APS-USAXS/projects/1/views/1)
+
 ## wxmtxy
 
 - production code that is used
